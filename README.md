@@ -8,6 +8,7 @@
 
 ## About
 Play this game using the buttons on screen, WASD or ↑ ← ↓ →
+Switch from theme before you start with A/D or ← / →
 
 This is a snake game made with Phaser2 and I liked the build proces off it. It has 2 themes and all the art is created by my self as well.
 
