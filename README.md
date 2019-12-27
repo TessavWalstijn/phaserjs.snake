@@ -15,4 +15,4 @@ When I was finsish with this version I found that it was better to use a 2d arra
 
 ---
 
-This project started at Sep 19, 2017 ~ and was last updated on May 4, 2018
+This project started at Sep 19, 2016 ~ and was last updated on May 4, 2018
